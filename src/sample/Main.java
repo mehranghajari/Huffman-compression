@@ -186,7 +186,6 @@ public class Main extends Application {
 
         saveDir.setOnAction(e -> {
             DirectoryChooser directoryChooser = new DirectoryChooser();
-            directoryChooser.setInitialDirectory(new File("/Users/parsasam"));
             File selectedDirectory = directoryChooser.showDialog(stage);
             saveTextField.setText(selectedDirectory.getAbsolutePath());
             System.out.println(selectedDirectory.getAbsolutePath());
