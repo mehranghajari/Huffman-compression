@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8489385-841b-4d38-ac78-e92dea0ea14b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/huffman-compression/huffman-compression/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e8489385-841b-4d38-ac78-e92dea0ea14b" name="Default Changelist" comment="Huffman Compression By Java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huffman-compression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/huffman-compression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huffman-compression/huffman-compression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/huffman-compression/huffman-compression/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huffman-compression/huffman-compression/huffman-compression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/huffman-compression/huffman-compression/huffman-compression.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/huffman-compression/huffman-compression/src/sample/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/huffman-compression/huffman-compression/src/sample/Huffman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sample/Huffman.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/huffman-compression/huffman-compression" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1XExiHVCJmwshgBATxbcEcOPhIy" />
@@ -35,6 +21,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,6 +66,14 @@
       <option name="presentableId" value="Default" />
       <updated>1580625180917</updated>
     </task>
+    <task id="LOCAL-00001" summary="Huffman Compression By Java">
+      <created>1582179863429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582179863429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Huffman Compression By Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Huffman Compression By Java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
